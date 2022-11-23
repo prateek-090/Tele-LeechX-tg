@@ -1,13 +1,13 @@
-{
+0{
   "name": "Tele-LeechX",
   "description": "A Powerful Telegram Torrent (and YouTube-DL) Leecher based on Pyrogram. Powered by @FuZionX and @FuZionXLeech",
   "logo": "https://telegra.ph/file/8abf8d2addb8f4d982d8a.jpg",
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/5MysterySD/Tele-LeechX",
+  "repository": "https://github.com/prateek-090/Tele-LeechX-tg",
   "success_url": "https://t.me/FuZionX",
-  "website": "https://github.com/5MysterySD/Tele-LeechX",
+  "website": "https://github.com/prateek-090/Tele-LeechX-tg",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable Webhooks when in env mode",
@@ -15,23 +15,23 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "7068279"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "2dc9a997317b0ff7a2d84d5a1bd7f91b"
     },
     "TG_BOT_TOKEN": {
       "description": "Get this value from @BotFather by Making New Bot and Paste the API token.",
-      "value": ""
+      "value": "5989444645:AAGefj7EsntEfVT0LzWGNCy19HuVxLaJP1k"
     },
     "AUTH_CHANNEL": {
       "description": "Should be an integer. The BOT API ID of the Telegram Group, Where the Bot should work., Put Group ID. Multiple ID separated by Single Space",
-      "value": ""
+      "value": "-1001516893697"
     },
     "OWNER_ID": {
       "description": "Should be an integer. ID of owner of bot. Get it by sending /info to @MissRose_Bot",
-      "value": ""
+      "value": "1690773526"
     }
   },
   "stack": "container"
